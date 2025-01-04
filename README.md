@@ -1,4 +1,4 @@
-# welcome
+# Welcome to Bear Industries
 
 Bear Industries specializes in delivering cutting-edge IT solutions, tailored to transform your ideas into reality.
 
